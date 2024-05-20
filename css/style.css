@@ -138,9 +138,9 @@ body
     height: 60vh;
     display: flex;
     justify-content: center;
+    background-image: url(https://priroda.club/uploads/posts/2023-10/1697626983_priroda-club-p-vkhod-v-peshcheru-les-motiiimi-pinterest-39.jpg);
     background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
+    background-size: 100%;
 }
 .t6
 {
